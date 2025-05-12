@@ -1,4 +1,4 @@
 # How to install these configs
 
-## Execute the this command
+### Execute the this command
 ```zsh setup.sh```
